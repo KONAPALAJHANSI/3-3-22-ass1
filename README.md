@@ -1,1 +1,2 @@
-# 3-3-22-ass1
+l=[x for x in range(10,0,-1)]
+print(l)
